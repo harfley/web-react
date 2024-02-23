@@ -1,0 +1,8 @@
+.card {
+    transition: 0.8s;
+    border-left: rgb(71, 64, 64) solid 5px;
+}
+
+.card:hover {
+    transform: rotateZ(2deg)
+}
